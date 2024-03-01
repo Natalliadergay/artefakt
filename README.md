@@ -3,3 +3,6 @@
 
 
 [ДЗ №2](https://github.com/Natalliadergay/ylab/blob/main/%D0%94%D0%97%202.md)
+
+
+[ДЗ №3]()
