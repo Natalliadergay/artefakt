@@ -2,7 +2,7 @@
 [ДЗ №1](https://github.com/Natalliadergay/ylab/blob/main/%D0%94%D0%97%201.md)
 
 
-[ДЗ №2](https://github.com/Natalliadergay/ylab/blob/main/%D0%94%D0%97%202.md)
+[Решение задач на техники тест дизайна ](https://github.com/Natalliadergay/ylab/blob/main/%D0%94%D0%97%202.md)
 
 
 [Задачи Postman, DevTools](https://github.com/Natalliadergay/ylab/blob/main/%D0%94%D0%97%203.md)
